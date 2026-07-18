@@ -39,18 +39,23 @@ Live-Weather/
 │── index.css
 │── README.md
 │── assets/
-│   ├── search.png
+│   ├── 2148933766.jpg
+│   ├── calender.png
 │   ├── cloud.png
+│   ├── clouds.png
+│   ├── cloudy(1).png
 │   ├── cloudy.png
-│   ├── calendar.png
-│   ├── time.png
-│   ├── flood.png
-│   ├── wind.png
-│   ├── hot.png
 │   ├── eye.png
-│   ├── sun.png
+│   ├── flood.png
+│   ├── hot.png
 │   ├── moon.png
-│   └── background.jpg
+│   ├── search.png
+│   ├── sun (1).png
+│   ├── sun.png
+│   ├── time.png
+│   └── weather.jpg
+│   └── wind (1).jpg
+│   └── wind.jpg
 ```
 
 ---
